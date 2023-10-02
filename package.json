@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "package": "^1.0.1"
+  },
+  "name": "express-js",
+  "version": "1.0.0",
+  "description": "\"ini adalah latihan express js\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "verina",
+  "license": "ISC"
+}
